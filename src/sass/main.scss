@@ -1,0 +1,17 @@
+@import 'fonts';
+@import 'normalize';
+@import './helpers/variables';
+@import './helpers/mixins';
+@import 'base';
+
+// sections
+@import './sections/header.scss';
+@import './sections/problems.scss';
+@import './sections/how-we-do-it.scss';
+@import './sections/program.scss';
+@import './sections/why-choose-us.scss';
+@import './sections/teacher.scss';
+@import './sections/we-garant.scss';
+@import './sections/feedbacks.scss';
+@import './sections/registration.scss';
+@import './sections/footer.scss';
